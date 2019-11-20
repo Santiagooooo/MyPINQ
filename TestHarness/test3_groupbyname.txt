@@ -1,0 +1,10 @@
+name,cancer,HIV,address,addressId
+zs,1,0,beijing,1
+ls,1,1,shanghai,2
+zl,1,1,shanghai,2
+tx,1,0,guangzhou,3
+bd,1,1,guangzhou,3
+yd,1,0,guangzhou,3
+ww,0,1,guangzhou,3
+qq,0,0,shanghai,2
+wx,0,1,beijing,1
